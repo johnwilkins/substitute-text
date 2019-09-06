@@ -1,0 +1,39 @@
+Red Hat Enterprise Linux|{rhel_long}
+RHEL|{rhel_short}
+Red Hat OpenStack Platform|{osp_long}
+RHOSP|{osp_acro}
+OpenStack|{osp_upstream}
+OpenStack-On-OpenStack|{ooo_long}
+TripleO|{ooo_short}
+Dashboard|{osp_acro} {horizon_long}
+horizon|{horizon_short}
+Identity|{keystone_long}
+keystone|{keystone_short}
+Compute|{nova_long}
+nova |{osp_acro} {nova_short}
+OpenStack Networking|{neutron_long}
+neutron|{neutron_short}
+Image Service|{glance_long}
+glance|{glance_short}
+Block Storage|{cinder_long}
+cinder|{cinder_short}
+Object Storage|{swift_long}
+swift|{swift_short}
+Orchestration|{heat_long}
+heat|{heat_short}
+Telemetry Metrics|{gnocchi_long}
+gnocchi|{gnocchi_short}
+Telemetry Alarming|{aodh_long}
+aodh|{aodh_short}
+Telemetry Event Storage|{panko_long}
+panko|{panko_short}
+Clustering|{sahara_long}
+sahara|{sahara_short}
+Shared File Systems|{manila_long}
+manila|{manila_short}
+Bare Metal|{ironic_long}
+ironic|{ironic_short}
+Hyper Converged Infrastructure|{hci_long}
+HCI|{hci_short}
+Relax|{rear_long}-and-Recover
+ReaR|{rear_short}
