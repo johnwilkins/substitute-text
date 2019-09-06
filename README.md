@@ -4,8 +4,8 @@ The substitute text AWK program searches and replaces multiple text entries acro
 
 ## Usage
 
-  awk -v path="<path>" -f substitute-text.awk -F'|' <input-file>
+    awk -v path="<path>" -f substitute-text.awk -F'|' <input-file>
 
-* -v var=val passes a variable to the script. Pass a `path` to directory containing the files that the program will search and replace.
-* -f <program-file>. In this case, the program file is `substitute-text.awk` in the local directory.
-* -F overrides default delimiter from space (\s). The input file uses (|).
+* `-v var=val` passes a variable to the script. Pass a `path` to directory containing the files that the program will search and replace.
+* `-f <program-file>`. In this case, the program file is `substitute-text.awk` in the local directory.
+* `-F` overrides default delimiter from space (`\s`). The input file uses (`|`).
