@@ -1,6 +1,6 @@
 # Substitute Text
 
-The `substitute-text.awk` AWK program searches for a text string across multiple files in a directory and replaces it with a replacement string. The program takes a path for the text files the program will modify, the path and program filename, a delimiter and an input file. The files included in this repository use the pipe symbol (`|`), but you may use another of your choosing.
+The `substitute-text.awk` AWK program searches for a text string across multiple files in a directory and replaces it with a replacement string. The program takes a path for the text files the program will modify, the path and program filename, a delimiter and an input file. The files included in this repository use the pipe symbol (`|`).
 
 ## Usage
 
